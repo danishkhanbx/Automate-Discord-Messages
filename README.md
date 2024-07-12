@@ -49,6 +49,6 @@ If everything is set up correctly, you should see a message in Spanish confirmin
 
 That's it! You've successfully set up an automated Discord messaging system. Feel free to customize it for different servers and tasks. If you found this tutorial helpful, drop a like, subscribe, and don't forget to enter the giveaway mentioned in the video for a chance to win. Stay tuned for more exciting content and giveaways! Peace out!
 
-# Resources:
+# Video Tutorials:
 1. [HOW TO AUTOMATE YOUR DISCORD MESSAGE](https://youtu.be/QWy3KxL1CDI?si=yjsNNTQa7Xn9z8rv)
 2. [How to Find Your Discord Token](https://youtu.be/YEgFvgg7ZPI?si=Wglf-B_IBjeTNMYv)
